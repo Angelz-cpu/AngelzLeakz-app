@@ -1,3 +1,4 @@
+----------------------------------------------------------
 
 Hello! Thank you for downloading Angelz Leakz!
 
@@ -10,3 +11,7 @@ You may move "AngelzLeakz" onto your desktop or any place.
 problems? questions? DM me on Twitter! https://twitter.com/Angel0Awesome
 
 Thanks for downloading!
+
+----------------------------------------------------------
+
+V.1 AngelzLeakz
